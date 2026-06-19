@@ -1,4 +1,32 @@
-# 機械化屋（kikaikaya）
+```
+██   ██ ██ ██   ██  █████  ██ ██   ██  █████  ██    ██  █████  
+██  ██  ██ ██  ██  ██   ██ ██ ██  ██  ██   ██  ██  ██  ██   ██ 
+█████   ██ █████   ███████ ██ █████   ███████   ████   ███████ 
+██  ██  ██ ██  ██  ██   ██ ██ ██  ██  ██   ██    ██    ██   ██ 
+██   ██ ██ ██   ██ ██   ██ ██ ██   ██ ██   ██    ██    ██   ██ 
+```
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=A8403A&center=true&vCenter=true&width=600&lines=Legacy+Modernization+%C3%97+Generative+AI;flowsmith+%E2%80%94+resumable+AI+workflows;migration-factory+%E2%80%94+survey+automation;building+tools%2C+in+public." alt="typing" />
+</p>
+
+```text
+$ kikaikaya --boot
+[ 0.01s ] init 機械化屋 ...
+[  ok  ] flowsmith ............ loaded
+[  ok  ] migration-factory .... loaded
+[ ready ] building tools, in public.
+```
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-A8403A?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/PostgreSQL-21262d?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Neo4j-21262d?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j" />
+  <img src="https://img.shields.io/badge/Claude_Code-21262d?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Mermaid-21262d?style=flat-square&logo=mermaid&logoColor=white" alt="Mermaid" />
+</p>
+
+---
 
 レガシーシステムのモダナイゼーション × 生成AI。
 
